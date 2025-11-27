@@ -3,20 +3,20 @@ Notebooks for experiments and cleaning up before uploading
 scripts for automation
 
 # names of Notebooks + scripts
-get_data
-tranform_data(feature Engineering)
-Modeling
-Simulation
-Advanced_simulation
-Automation
+* get_data
+* tranform_data(feature Engineering)
+* Modeling
+* Simulation
+* Advanced_simulation
+* Automation
 
-# get_data (Done on 11/13)
+# get_data
 BTC, ETH, XRP 1h data from kaggle + yf, ensuring continuity. 
 Target definition: The future_max_price + ratio + binary label (future_growth_ratio > chg_threhold as 1) is a clean way to generate supervised learning targets.
 Saving to parquet with compression makes downstream ML pipelines efficient.
 
 
-# tranform_data(feature Engineering) Done on 11/14
+# tranform_data(feature Engineering)
 custom features, like SMA EMA crossing touching
 All TAlib technique indicators(should understand every single TA)
 
