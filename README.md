@@ -1,5 +1,3 @@
-v2 realistic --> wrap up as the SMAZ project and push to github, showing casing coding, modeling, and feature engineering skills, and the ability to design, validate, and communicate quantitative research. NOT as proof I can beat the market, don’t overinvest in “predicting stocks".
-
 # design 
 Notebooks for experiments and cleaning up before uploading
 scripts for automation
