@@ -28,7 +28,7 @@ scripts for automation
 * buy low, fees, stop loss, take profit, or exit at the 24th h.
 * CAGR
 
-# TODO Automation
+# automation TODO
 sending Telegram/email notification
 
 
